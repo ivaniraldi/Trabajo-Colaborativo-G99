@@ -1,0 +1,88 @@
+body {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  font-family: 'Rubik', sans-serif;
+  color: #fff;
+  padding: 2rem 0;
+}
+
+.header h1 {
+  font-weight: 800;
+  text-align: center;
+  color: #ffffff;
+}
+
+.header span {
+  color: #00d4ff;
+  font-size: 1.5rem;
+}
+
+.intro {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 700px;
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+}
+
+.intro h2 {
+  font-weight: 600;
+  color: #ffd700;
+}
+
+.intro p {
+  font-size: 1rem;
+  color: #e0e0e0;
+}
+
+.contenedor-colaborativo {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+/* Post-it personalizado */
+.post-it {
+  width: 250px;
+  min-height: 180px;
+  background-color: #fffbe6;
+  color: #333;
+  border: 2px solid #fdd835;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  font-size: 0.95rem;
+  font-weight: 400;
+  transition: transform 0.2s ease-in-out;
+  position: relative;
+}
+
+.post-it:hover {
+  transform: rotate(-1deg) scale(1.02);
+}
+
+.post-it strong {
+  font-weight: 700;
+  font-size: 1.1rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.post-it code {
+  background-color: #e0e0e0;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 3rem;
+  padding: 1rem;
+  font-size: 1rem;
+  color: #cccccc;
+  border-top: 1px solid #444;
+}
