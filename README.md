@@ -1,5 +1,10 @@
 # 🚀 Trabajo colaborativo - G99 Grupo 3
 
+Link al despliegue (github pages) :  https://ivaniraldi.github.io/Trabajo-Colaborativo-G99/
+
+Trabajo colaborativo 1 :  https://github.com/ivaniraldi/primer_repositorio
+Trabajo colaborativo 2 :  https://github.com/ivaniraldi/primer_repositorio
+
 Bienvenid@ al proyecto más cool del módulo! 😎  
 Aquí aprenderás a trabajar de forma colaborativa utilizando **ramas en Git y GitHub**, como lo hacen los equipos de desarrollo reales.  
 
